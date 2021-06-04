@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618556372 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\unidad01\bayes\main.c
+	<stdio.h>
+	<stdlib.h>
+
