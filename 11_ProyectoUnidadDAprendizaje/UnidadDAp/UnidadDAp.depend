@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1623655548 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\main.cpp
+	<UnidadDAp.h>
+	<Comp.h>
+	<climits>
+	"setayc.cpp"
+
+1623650149 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\unidaddap.h
+	<iostream>
+	<vector>
+	<header.h>
+
+1623560385 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\header.h
+
+1623635807 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\uda.cpp
+
+1623650177 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\unidaddap.cpp
+	<climits>
+	"UnidadDAp.h"
+
+1623655705 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\setayc.cpp
+
+1623651381 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\comp.h
+	<iostream>
+	<UnidadDAp.h>
+
+1623655262 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\comp.cpp
+	<climits>
+	"Comp.h"
+
+1623642374 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\uda.cpp
+	<UnidadDAp.h>
+
