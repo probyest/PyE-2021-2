@@ -3,16 +3,17 @@
 #include <iostream>
 #include <UnidadDAp.h>
 
-/** Comparaci\'on */
+/** Comparaci\'on de UAs */
 class Comp
 {
 public:
- uint index;
- UnidadDAp UAdFormato;
- UnidadDAp UAdDiagrama;
+ uint index; /** Identificador de Comparaci\'on */
+ UnidadDAp UAdFormato; /** UA de Formato */
+ UnidadDAp UAdDiagrama;/** UA de Diagrama */
  Comp(uint id,UnidadDAp UAdF,UnidadDAp UAdD);
 virtual ~Comp();
-friend std::ostream& operator<<(std::ostream& out,Comp& rhs);
+friend std::ostream& operator<<
+                     (std::ostream& out,Comp& rhs);
 protected:
 
 private:

@@ -1,0 +1,4 @@
+El archivo pdf se cre\'o con el comsndo epspdf:
+$ epspdf file1.eps file2.pdf
+
+

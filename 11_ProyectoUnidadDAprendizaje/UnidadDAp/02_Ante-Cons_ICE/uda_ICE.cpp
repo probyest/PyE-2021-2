@@ -1,6 +1,6 @@
-/** uda.cpp - unidades de aprendizaje*/
+/** uda_ICE.cpp - unidades de aprendizaje*/
 #include <UnidadDAp.h>
-
+std::string carrera="I.C.E.";
 UnidadDAp uda[] = {
  UnidadDAp(0,"Sistemas de Comunicaciones"),
  UnidadDAp(1,"Seniales y Sistemas I"),
@@ -57,6 +57,11 @@ UnidadDAp uda[] = {
  UnidadDAp(52,"Ingenieria Acustica II"),
  UnidadDAp(53,"Inteligencia Artificial"),
  UnidadDAp(54,"Sistemas de Radiocomunicaciones II"),
- UnidadDAp(55,"Calculo Diferencial e Integral")
-};
+ UnidadDAp(55,"Calculo Diferencial e Integral"),
+ UnidadDAp(56,"Redes Neuronales Artificiales"),
+ UnidadDAp(57,"Programacion Avanzada"),
+ UnidadDAp(58,"Programacion")
+};/*end UnidadDAp uda[]*/
 uint N = SIZE_ARR(uda);
+
+

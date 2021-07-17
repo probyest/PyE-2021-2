@@ -4,8 +4,7 @@
 #include <vector>
 #include <header.h>
 
-class UnidadDAp
-{
+class UnidadDAp {
 public:
  uint id;
  std::string UAname;
@@ -19,7 +18,9 @@ public:
  bool esta_en_antecedente(uint oid);
  bool esta_en_consecuente(uint oid);
  void add_ante(uint na);
+ void add_ante(std::string ua);
  void add_cons(uint nc);
+ void add_cons(std::string ua);
  std::string get_UA_name();
  uint get_id();
 protected:

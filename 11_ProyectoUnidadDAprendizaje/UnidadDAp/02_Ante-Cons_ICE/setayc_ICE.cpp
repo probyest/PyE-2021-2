@@ -118,6 +118,17 @@ formato[18].add_ante(47);
 formato[18].add_cons(2);
 formato[18].add_cons(53);
 
+/** Inteligencia Artificial */
+/** Como antecedentes se mendion\'o en el
+    formato Ingenier\'ias en general */
+formato[53].add_ante(UINT_MAX);
+formato[53].add_cons(56);
+
+/** Programacion Avanzada */
+formato[57].add_ante(58);
+formato[57].add_cons(UINT_MAX);
+
+
 /*(*************************************************)*/
 /** "Sistemas de Comunicaciones" */
 //formato[0].add_ante(19);
@@ -316,3 +327,16 @@ diagrama[18].add_ante(4);
 diagrama[18].add_cons(23);
 diagrama[18].add_cons(53);
 diagrama[18].add_cons(2);
+
+/** Inteligencia Artificial */
+//formato[53].add_ante(UINT_MAX);
+//formato[53].add_cons(56);
+diagrama[53].add_ante(23);
+diagrama[53].add_ante(18);
+diagrama[53].add_cons(UINT_MAX);
+
+/** Programacion Avanzada */
+//formato[57].add_ante(58);
+//formato[57].add_cons(UINT_MAX);
+diagrama[57].add_ante(UINT_MAX);
+diagrama[57].add_cons(36);

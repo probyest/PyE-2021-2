@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1623655548 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\main.cpp
+1625080537 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\main.cpp
 	<UnidadDAp.h>
 	<Comp.h>
 	<climits>
-	"setayc.cpp"
+	"setayc_ICE.cpp"
 
-1623650149 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\unidaddap.h
+1625146838 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\unidaddap.h
 	<iostream>
 	<vector>
 	<header.h>
@@ -14,13 +14,13 @@
 
 1623635807 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\uda.cpp
 
-1623650177 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\unidaddap.cpp
+1625147613 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\unidaddap.cpp
 	<climits>
 	"UnidadDAp.h"
 
 1623655705 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\setayc.cpp
 
-1623651381 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\comp.h
+1625181624 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\comp.h
 	<iostream>
 	<UnidadDAp.h>
 
@@ -30,4 +30,90 @@
 
 1623642374 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\uda.cpp
 	<UnidadDAp.h>
+
+1623940272 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\01_themes_times_distribution\theme.cpp
+	"Theme.h"
+
+1623940258 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\01_themes_times_distribution\theme.h
+	<iostream>
+	<header.h>
+	<conio2.h>
+
+1623993204 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\01_themes_times_distribution\themestimesdistribution.cpp
+	<iostream>
+	<conio2.h>
+	"ThemeSum.h"
+
+1623960355 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\01_themes_times_distribution\themesum.h
+	<iostream>
+	<vector>
+	"Theme.h"
+
+1623960128 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\01_themes_times_distribution\themesum.cpp
+	<string.h>
+	"ThemeSum.h"
+
+1386462276 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386382178 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\conio2.h
+	<conio.h>
+	<windows.h>
+
+1625063049 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\uda_ice.cpp
+	<UnidadDAp.h>
+
+1625080511 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\setayc_ice.cpp
+
+1625080537 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\02_ante-cons_ice\main.cpp
+	<UnidadDAp.h>
+	<Comp.h>
+	<climits>
+	"setayc_ICE.cpp"
+
+1625080511 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\02_ante-cons_ice\setayc_ice.cpp
+
+1625145674 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\02_ante-cons_ice\uda_ice.cpp
+	<UnidadDAp.h>
+
+1625150139 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\src\compici.cpp
+	<climits>
+	"CompICI.h"
+
+1625080643 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\include\compici.h
+	<iostream>
+	<UnidadDAp.h>
+
+1625181194 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\02_ante-cons_ice\main_ice.cpp
+	<UnidadDAp.h>
+	<Comp.h>
+	<climits>
+	"setayc_ICE.cpp"
+
+1625234371 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\03_ante-cons_ici\uda_ici.cpp
+	<UnidadDAp.h>
+
+1625495312 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\03_ante-cons_ici\main_ici.cpp
+	<UnidadDAp.h>
+	<CompICI.h>
+	<climits>
+	<conio2.h>
+	"setayc_ICI.cpp"
+
+1625503782 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\03_ante-cons_ici\setayc_ici.cpp
+
+1386462276 source:c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\00commonfiles\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386382178 c:\users\lmc\00_emi\2021_2\repo\org_probyest\pye-2021-2\11_proyectounidaddaprendizaje\unidaddap\00commonfiles\conio2.h
+	<conio.h>
+	<windows.h>
 
