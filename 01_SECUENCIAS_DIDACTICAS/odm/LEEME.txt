@@ -1,0 +1,14 @@
+PARA CREAR EL ARCHIVO MyMasterDocument.odm utilic\'e:
+
+File -> Nuevo -> Patrón de documento
+
+Y guard\'ee el archivo con el nombre MyMasterDocument
+Autom\'aticamente Libre Offce Writer le coloc\'o la extensi\'on odm
+La cual corresponde a un Master Document.
+
+
+On the other hand:
+Working with Master Document in LibreOffice 7
+https://www.youtube.com/watch?v=Ftx9PSA77p4
+
+
