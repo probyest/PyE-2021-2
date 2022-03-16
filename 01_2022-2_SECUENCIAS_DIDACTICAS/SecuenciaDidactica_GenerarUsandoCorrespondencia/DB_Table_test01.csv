@@ -1,0 +1,647 @@
+FECHA,UnidadDAprendizaje,UnidadDCompetencia,ElementoDCompetencia,Docente,SituacionProblema,CopetenciaADesarrollar,MetodologiaADesarrollar,ActividadesDelDocente,ActividadesDelEstudiante,Recursos,Tiempo,IndicadoresDDesempenio,ProcMetacognitivo,IntencionalidadDLaEval,InstrumentosDEval,ProdFinal
+2 marzo de 2022,Probabilidad y Estadística,I TEORIA DE PROBABILIDAD,"REDACTA EN MEDIA CUARTILLA EL CONCEPTO DE PROBABILIDAD, ANOTANDO UN EJEMPLO DE SU APLICACIÓN EN LA INGENIERIA.",Ing. Lamberto Maza Casas,"¿Qué debe entenderse por probabilidad?
+¿Cómo se calcula la probabilidad clásica?
+¿Sirve para algo el concepto de probabilidad en la vida cotidiana?",EXPLICA LA NECESIDAD DEL ESTUDIO Y APLICACIÓN DE LA TEORIA DE LA PROBABILIDAD.,"Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Redacta un documento en el que con sus propias palabras define qué debe entenderse por probabilidad, cuáles son los orígenes de las mismas, y cuáles son sus aplicaciones.","• Pintarrón    
+• Marcadores para pintarrón.     
+• Internet.","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 10 minutos de encuadre.     
+• 10 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 60 minutos para la revisión de ejemplos de espacios muestra y del concepto de evento o conjunto medible.     
+• 20 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.","Ilustración del concepto de probabilidad, sus orígenes y sus aplicaciones."
+7 marzo de 2022,Probabilidad y Estadística,I TEORIA DE PROBABILIDAD,REDACTA EN MEDIA CUARTILLA EL CONCEPTO DE EVENTO O SUCESO.,Ing. Lamberto Maza Casas,"¿Qué debe entenderse por eventos o conjuntos medibles?
+¿Cómo se aplica la teoría de conjuntos al cálculo de probabilidades?
+¿Qué actitud debe tomar usted si no entiende el concepto de sigma álgebra? ",EXPLICA LA NECESIDAD DEL ESTUDIO Y APLICACIÓN DE LA TEORIA DE LA PROBABILIDAD.,"Método Expositivo.  
+
+Técnica de Explicación Oral. 
+
+Aprendizaje basado en Problemas.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Calcula probabilidades de eventos, utilizando la definición clásica.","• Pintarrón    
+• Marcadores para pintarrón.     
+• Internet.","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 10 minutos de encuadre.     
+• 10 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 60 minutos para resolver diversos problemas de obtención del espacio muestra e identificación de eventos.      
+• 20 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.","Ilustración de algún procedimiento para a partir de la descripción de un experimento aleatorio, obtener el espacio muestra y asignar una medida a los eventos del mismo."
+9 marzo de 2022,Probabilidad y Estadística,II VARIABLES ALEATORIAS,REDACTA EN MEDIA CUARTILLA LA DEFINICION DE VARIABLE ALEATORIA DISCRETA Y DARA UN EJEMPLO DE FENOMENO QUE PRESENTE ESTE TIPO DE VARIABLE.,Ing. Lamberto Maza Casas,"¿Cuál es la definición de variable aleatoria discreta?
+¿Cómo se puede saber si una función es una variable aleatoria discreta?
+¿Qué debe usted hacer para aprender nuevos conceptos como el de función medible discreta? ",EMPLEA LAS PROPIEDADES DE LAS DIFERENTES VARIABLES ALEATORIAS EN LA RESOLUCION DE PROBLEMAS.,"Método Expositivo.  
+
+Técnica de Explicación Oral.  
+
+Toma de decisiones","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Identifica y ejemplifica el concepto de variable aleatoria discreta en situaciones de ingeniería.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la resolución de problemas en los que se utilicen variables aleatorias discretas.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Cálculo de probabilidades como medidas de eventos y de eventos combinados definidos a partir de espacios muestra de experimentos aleatorios.
+14 marzo de 2022,Probabilidad y Estadística,II VARIABLES ALEATORIAS,REDACTA EN MEDIA CUARTILLA LA DEFINICION DE VARIABLE ALEATORIA CONTINUA Y DARA UN EJEMPLO DE FENOMENO QUE PRESENTE ESTE TIPO DE VARIABLE.,Ing. Lamberto Maza Casas,"¿Cuál es la definición de variable aleatoria continua?
+¿Cómo se puede saber si una función es una variable aleatoria continua?
+¿Qué debe usted hacer para aprender nuevos conceptos como el de función medible continua? ",EMPLEA LAS PROPIEDADES DE LAS DIFERENTES VARIABLES ALEATORIAS EN LA RESOLUCION DE PROBLEMAS.,"Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Identifica y ejemplifica el concepto de variable aleatoria continua en situaciones de ingeniería.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la resolución de problemas en los que se utilicen variables aleatorias continuas.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de la aplicación del teorema de Bayes.
+16 marzo de 2022,Probabilidad y Estadística,II VARIABLES ALEATORIAS,"OBTIENE EL VALOR ESPERADO DE LA VARIABLE ALEATORIA DISCRETA INVOLUCRADA, SIN ERROR DE CONCEPTO EN LOS ELEMENTOS QUE LO INTEGRAN, EVIDENCIANDO EL VALOR DE LA HONRADEZ.",Ing. Lamberto Maza Casas,"¿Cuál es la definición del valor esperado de una variable aleatoria discreta?
+¿Cómo se calcula el valor esperado de una variable aleatoria discreta?
+¿Considera usted que el concepto de valor esperado de una variable aleatoria discreta es aprovechado por algunas empresas?",EMPLEA LAS PROPIEDADES DE LAS DIFERENTES VARIABLES ALEATORIAS EN LA RESOLUCION DE PROBLEMAS.,"Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Obtiene mediante la aplicación de la definición, el valor esperado de una variable aleatoria discreta definida sobre un espacio de probabilidad adecuado para el problema considerado.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la resolución de problemas que involucren la obtención del valor esperado de variables aleatorias discretas.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de la aplicación de las técnicas de conteo para el cálculo de probabilidades de eventos.
+23 marzo de 2022,Probabilidad y Estadística,II VARIABLES ALEATORIAS,"OBTIENE EL VALOR ESPERADO DE LA VARIABLE ALEATORIA CONTINUA INVOLUCRADA, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuál es la definición del valor esperado de una variable aleatoria continua?
+¿Cómo se calcula el valor esperado de una variable aleatoria continua?
+¿Considera usted que el concepto de valor esperado de una variable aleatoria continua es aprovechado por algunas empresas?",EMPLEA LAS PROPIEDADES DE LAS DIFERENTES VARIABLES ALEATORIAS EN LA RESOLUCION DE PROBLEMAS.,"Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Obtiene mediante la aplicación de la definición, el valor esperado de una variable aleatoria continua definida sobre un espacio de probabilidad adecuado para el problema considerado.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la resolución de problemas que involucren la obtención del valor esperado de variables aleatorias continuas.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Problemas resueltos en donde se utilicen variables aleatorias discretas.
+28 marzo de 2022,Probabilidad y Estadística,PRIMER EXAMEN PARCIAL,"DEMUESTRA LAS COMPETENCIAS ADQUIRIDAS EN SESION SOBRE LA TEORIA DE PROBABILIDADES Y LOS TIPOS DE VARIABLES ALEATORIAS, EN UN EXAMEN ESCRITO, EVIDENCIA EL VALOR DE HONRADEZ.",Ing. Lamberto Maza Casas,"¿Los discentes pueden demostrar que han aprendido los conceptos contemplados en el examen?
+¿Los discentes han aprendido los procedimientos contemplados en el examen?
+¿Cuáles son las actitudes de los discentes ante los conceptos y procedimientos contemplados en el examen?","DEMUESTRA CONOCIMIENTOS SOBRE PROBABILIDAD Y VARIABLES ALEATORIAS DISCRETAS/CONTINUAS, SUS 
+APLICACIONES COMO MODELOS MATEMATICOS ; ASI COMO ALGUNOS PROCEDIMIENTOS DE CALCULO DE 
+VALORES ESPERADOS Y VARIANZAS DE VARIABLES ALEATORIAS DISCRETAS/CONTINUAS.",,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,El personal discente demuestra los conocimientos adquiridos sobre probabilidad y variables aleatorias.,Libros de la bibliografía.,120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Examen cumplimentado.
+30 marzo de 2022,Probabilidad y Estadística,III DISTRIBUCIONES DISCRETAS,"CALCULA LA DISTRIBUCION DE PROBABILIDAD DE BERNOULLI DE LA VARIABLE INVOLUCRADA, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de función de distribución de probabilidad de variables aleatorias discretas?
+¿Cómo se obtiene la función de distribución de probabilidad de variables aleatorias discretas?
+¿Considera usted que la función de distribución de probabilidad tiene aplicaciones en su carrera? ","IDENTIFICA LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCIONES DISCRETAS 
+UTILIZADAS EN PROBABILIDAD AL ESTUDIAR ALGUNOS FENOMENOS ALEATORIOS DEL AREA DE INGENIERIA.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Obtiene funciones de distribución de probabilidad de variables aleatorias discretas.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la obtención de funciones de distribución de variables aleatorias discretas.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Problemas resueltos en donde se utilicen variables aleatorias continuas.
+4 abril de 2022,Probabilidad y Estadística,III DISTRIBUCIONES DISCRETAS,"CALCULA EN UN PROBLEMA QUE INVOLUCRE N PRUEBAS DE BERNOULLI DADO EN CLASE, LA DISTRIBUCION DE PROBABILIDAD BINOMIAL DE LA VARIABLE, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuá es la definición de distribución de probabilidad binomial?
+¿Cómo se obtiene la distribución de probabilidad binomial?
+¿Qué actitud debe adoptar usted si considera que tiene áreas de oportunidad en conceptos o habilidades?","IDENTIFICA LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCIONES DISCRETAS 
+UTILIZADAS EN PROBABILIDAD AL ESTUDIAR ALGUNOS FENOMENOS ALEATORIOS DEL AREA DE INGENIERIA.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Elabora un diagrama con el que describe y explica los  conceptos de distribución de probabilidad de Bernoulli, distribución de probabilidad binomial.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de distribuciones de probabilidad de Bernoulli, binomial, y geométrica.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Problemas resueltos en donde se utilice el valor esperado de variables aleatorias discretas.
+6 abril de 2022,Probabilidad y Estadística,III DISTRIBUCIONES DISCRETAS,"CALCULA LA DISTRIBUCION DE PROBABILIDAD GEOMETRICA DE LA VARIABLE INVOLUCRADA, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuá es la definición de distribución de probabilidad geométrica?
+¿Cómo se obtiene la distribución de probabilidad geométrica?
+¿Qué actitud debe adoptar usted si considera que tiene fortalezas en conceptos o habilidades?","IDENTIFICA LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCIONES DISCRETAS 
+UTILIZADAS EN PROBABILIDAD AL ESTUDIAR ALGUNOS FENOMENOS ALEATORIOS DEL AREA DE INGENIERIA.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica los  conceptos de distribución de probabilidad geométrica.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de las gráficas de distribuciones de probabilidad geométrica, binomial negativa, e hipergeométrica.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Problemas resueltos en donde se utilice el valor esperado de variables aleatorias continuas.
+18 abril de 2022,Probabilidad y Estadística,III DISTRIBUCIONES DISCRETAS,"CALCULA LA DISTRIBUCION DE PROBABILIDAD BINOMIAL NEGATIVA DE LA VARIABLE INVOLUCRADA, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuá es la definición de distribución de probabilidad binomial negativa?
+¿Cómo se obtiene la distribución de probabilidad binomial negativa?
+¿Cómo podría usted verificar si ha comprendido la distribución de probabilidad negativa?","IDENTIFICA LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCIONES DISCRETAS 
+UTILIZADAS EN PROBABILIDAD AL ESTUDIAR ALGUNOS FENOMENOS ALEATORIOS DEL AREA DE INGENIERIA.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica los  conceptos de distribución de probabilidad binomial negativa.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de las gráficas de distribuciones de probabilidad geométrica, binomial negativa, e hipergeométrica.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Soluciones de problemas que involucran variables aleatorias discretas/continuas y el cálculo de sus varianzas.
+20 abril de 2022,Probabilidad y Estadística,IV DISTRIBUCIONES CONTINUAS,"CALCULA LA DISTRIBUCION DE PROBABILIDAD UNIFORME DE LA VARIABLE INVOLUCRADA, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de distribución de probabilidad uniforme?
+¿Cómo se calcula la probabilidad de un evento definido usando una variable aleatoria con distribución de probabilidad uniforme?
+¿Puede usted usar enunciados formales para demostrar que ha comprendido la distribución de probabilidad uniforme?","IDENTIFICA LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCIONES CONTINUAS 
+UTILIZADAS EN PROBABILIDAD DURANTE EL ESTUDIO DE ALGUNOS FENOMENOS.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica los  conceptos de distribución de probabilidad uniforme.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 65 minutos para la obtención de gráficas de distribución de probabilidad uniforme y de distribución de probabilidad exponencial de variables aleatorias continuas.     
+• 10 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Soluciones de algunos problemas como preparación para la primera evaluación.
+25 abril de 2022,Probabilidad y Estadística,V DISTRIBUCION NORMAL,"ANALIZA LA GRAFICA DE PROBABILIDAD NORMAL DE UN CONJUNTO DE DATOS DADOS EN CLASE, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de función de distribución de probabilidad normal?
+¿Cómo se utiliza la función de distribución de probabilidad normal?
+¿Cuál es el propósito de estudiar procedimientos que utilizan la distribución de probabilidad normal?","IDENTIFICA MEDIANTE EL USO DE EJEMPLOS, LOS FENOMENOS QUE SIGUEN EL MODELO DE DISTRIBUCION NORMAL.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica los  conceptos de distribución de probabilidad normal.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo. 
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 65 minutos para la obtención de gráficas de distribución de probabilidad exponencial de variables aleatorias continuas. Identificación de la distribución normal.     
+• 10 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración del cálculo de probabilidades de eventos con la distribución de probabilidad normal de variables aleatorias continuas.
+27 abril de 2022,Probabilidad y Estadística,V DISTRIBUCION NORMAL,"EXPLICA POR ESCRITO COMO SE RELACIONAN LAS DISTRIBUCIONES BINOMIAL Y DE POISSON CON LA DISTRIBUCION NORMAL, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cómo se relacionan las distribuciones binomial y de Poisson con la distribución normal?
+¿Cómo se aplica la relación entre las distribuciones binomial y de Poisson con la distribución normal?
+¿Qué problemas o dificultades encuentras para aplicar la relación entre las distribuciones binomial y de Poisson con la distribución normal?","IDENTIFICA MEDIANTE EL USO DE EJEMPLOS, LOS FENOMENOS QUE SIGUEN EL MODELO DE DISTRIBUCION NORMAL.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica la relación entre las distribuciones binomial y de Poisson con la distribución normal.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención probabilidades de eventos usando la distribución normal e identificación de las relaciones entre distribuciones de probabilidad.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración del cálculo de probabilidades de eventos con la distribución de probabilidad normal de variables aleatorias continuas.
+2 mayo de 2022,Probabilidad y Estadística,V DISTRIBUCION NORMAL,"IDENTIFICA, LAS DISTINTAS FORMAS EN QUE SE PUEDEN PRESENTAR LAS DISTRIBUCION ES CONTINUAS UTILIZADAS EN PROBABILIDAD DURANTE EL ESTUDIO DE ALGUNOS FENÓMENOS",Ing. Lamberto Maza Casas,"¿Cuál es la definición de función de densidad de probabilidad de variables aleatorias continuas?
+¿Cómo se obtiene la función de densidad de probabilidad de variables aleatorias continuas?
+¿Considera usted que sabe usar enunciados formales para responder a las preguntas previas?","IDENTIFICA MEDIANTE EL USO DE EJEMPLOS, LOS FENOMENOS QUE SIGUEN EL MODELO DE DISTRIBUCION NORMAL.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica la función de densidad de probabilidad de una variable aleatoria continua.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención probabilidades de eventos usando la distribución normal e identificación de las relaciones entre distribuciones de probabilidad.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustraciones de gráficas de distribución de probabilidad exponencial y normal de variables aleatorias continuas.
+4 mayo de 2022,Probabilidad y Estadística,V DISTRIBUCION NORMAL,"IDENTIFICA, MEDIANTE EL USO DE EJEMPLOS LOS FENÓMENOS QUE SIGUEN EL MODELO DE DISTRIBUCIÓN NORMAL",Ing. Lamberto Maza Casas,"¿Cuál es la definición de función de distribución de probabilidad acumulada de variables aleatorias continuas?
+¿Cómo se obtiene la función de distribución de probabilidad acumulada de variables aleatorias continuas?
+¿Considera usted que se necesita conocimiento empírico para responder a las preguntas previas?","IDENTIFICA MEDIANTE EL USO DE EJEMPLOS, LOS FENOMENOS QUE SIGUEN EL MODELO DE DISTRIBUCION NORMAL.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Elabora un diagrama con el que describe y explica la función de probabilidad acumulada de una variable aleatoria continua.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención probabilidades de eventos usando la distribución normal e identificación de las relaciones entre distribuciones de probabilidad.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Soluciones de algunos problemas como preparación para la segunda evaluación.
+9 mayo de 2022,Probabilidad y Estadística,SEGUNDO EXAMEN PARCIAL,"DEMUESTRA LOS CONOCIMIENTOS ADQUIRIDOS SOBRE LAS DIFERENTES DISTRIBUCIONES QUE EXISTEN MEDIANTE UN EXAMEN ESCRITO, EVIDENCIANDO EL VALOR DE HONRADEZ",Ing. Lamberto Maza Casas,"¿Los discentes pueden demostrar que han aprendido los conceptos contemplados en el examen?
+¿Los discentes han aprendido los procedimientos contemplados en el examen?
+¿Cuáles son las actitudes de los discentes ante los conceptos y procedimientos contemplados en el examen?","DEMUESTRA CONOCIMIENTOS SOBRE VARIABLES ALEATORIAS (V.A.) DISCRETAS Y V.A. CONTINUAS, DISTRIBUCIONES 
+DE PROBABILIDAD DE V.A. DISCRETAS Y DE V.A. CONTINUAS; ASI COMO DEL CALCULO DE PROBABILIDADES USANDO 
+LA DISTRIBUCION NORMAL.",,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,El personal discente demuestra los conocimientos adquiridos sobre teoría de probabilidad y distribuciones de probabilidad.,Libros de la bibliografía.,120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas."," • Examen cumplimentado.     
+• Ilustración de la obtención de funciones de distribución de variables aleatorias discretas."
+11 mayo de 2022,Probabilidad y Estadística,VI ESTADISTICA DESCRIPTIVA,"REDACTA EN UNA CUARTILLA LOS CONCEPTOS DE POBLACION, MUESTRA Y MUESTRA ALEATORIA, ANOTANDO UN EJEMPLO DE CADA UNA.",Ing. Lamberto Maza Casas,"¿Cuáles son los conceptos de población, muestra y muestra aleatoria?
+¿Cómo se calcula el tamaño de una muestra?
+¿Considera usted que la estadística es aplicable en las ciencias fácticas?","APLICA EN FORMA CORRECTA LAS HERRAMIENTAS DE LA ESTADISTICA DESCRIPTIVA EN LA SOLUCION DE 
+PROBLEMAS DE INVESTIGACION.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Revisa los conceptos de población, muestra y muestra aleatoria.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 25 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 50 minutos para la elaboración sobre los conceptos de población, muestra y muestra aleatoria.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.","Ilustraciones de frecuencias relativas, polígonos de frecuencias, histogramas y funciones de densidad de probabilidad."
+16 mayo de 2022,Probabilidad y Estadística,VI ESTADISTICA DESCRIPTIVA,"ELABORA SU HISTOGRAMA, POLIGONO DE FRECUENCIAS Y OJIVA DE UNA COLECCIÓN DE DATOS DADOS EN CLASE, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuales con los conceptos de histograma, polígono de frecuencias y ojiva de una colección de datos dada?
+¿Cómo se construyen un histograma, un polígono de frecuencia, y una ojiva de una colección de datos dada?
+¿Cuántas posibilidades se te ocurren para contestar la pregunta anterior?","APLICA EN FORMA CORRECTA LAS HERRAMIENTAS DE LA ESTADISTICA DESCRIPTIVA EN LA SOLUCION DE 
+PROBLEMAS DE INVESTIGACION.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","Obtiene frecuencias relativas para dibujar polígonos de frecuencias e histogramas, y compararlos con gráficas de funciones de densidad de probabilidad de variables aleatorias continuas.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de frecuencias relativas y polígonos de frecuencias correspondientes a datos muestra de fenómenos con distribución normal.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.","Ilustraciones de frecuencias relativas, polígonos de frecuencias, histogramas y funciones de densidad de probabilidad."
+18 mayo de 2022,Probabilidad y Estadística,VI ESTADISTICA DESCRIPTIVA,"CALCULA LOS VALORES ESTADISTICOS DE TENDENCIA CENTRAL (MEDIA ARITMETICA, LA MEDIANA, LA MODA), A PARTIR DE UN CONJUNTO DE DATOS NO AGRUPADOS DADOS EN CLASE, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuáles son las definiciones de media aritmética, mediana, y moda de una colección de datos?
+¿Cómo se obtienen la media aritmética, la mediana, y la moda de una colección de datos?
+¿Alguna de las preguntas anteriores se debe responder solo con enunciados formales?","APLICA EN FORMA CORRECTA LAS HERRAMIENTAS DE LA ESTADISTICA DESCRIPTIVA EN LA SOLUCION DE 
+PROBLEMAS DE INVESTIGACION.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","A partir de un conjunto de datos dados en clase, calcula la media aritmética, la mediana y la moda.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la aplicación de los procedimientos para los cálculos de la media, la mediana, y la moda.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.","Ilustración de la aplicación de los procedimientos para calcular la media aritmética, la mediana, y la moda."
+23 mayo de 2022,Probabilidad y Estadística,VI ESTADISTICA DESCRIPTIVA,"CALCULA LOS VALORES ESTADISTICOS DE DISPERSION (VARIANZA Y DESVIACION ESTANDAR), A PARTIR DE UN CONJUNTO DE DATOS NO AGRUPADOS DADOS EN CLASE, SIN ERROR DE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuáles son las definiciones de varianza y desviación estándar de una colección de datos?
+¿Cómo se obtienen la varianza y la desviación estándar de una colección de datos?
+¿Alguna de las preguntas anteriores se puede responder con conocimiento empírico?","APLICA EN FORMA CORRECTA LAS HERRAMIENTAS DE LA ESTADISTICA DESCRIPTIVA EN LA SOLUCION DE 
+PROBLEMAS DE INVESTIGACION.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.","A partir de un conjunto de datos dados en clase, calcula la varianza y desviación estándar de una colección de datos.","• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de estadísticos (tendencia centrar y de dispersión) y estimadores puntuales.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de obtención de estadísticos y estimadores puntuales.
+25 mayo de 2022,Probabilidad y Estadística,VII ESTIMACION ESTADISTICA Y DISTRIBUCIONES DE MUESTREO,"REDACTA EN MEDIA CUARTILLA EL CONCEPTO DE ESTIMADOR PUNTUAL, DANDO UN EJEMPLO DE APLICACIÓN DE ESTE CONCEPTO.",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de estimador puntual?
+¿Cómo se calculan los estimadores puntuales?
+¿Conoce usted algún estimador puntual?","APLICA EN LA SOLUCION DE PROBLEMAS LOS PRINCIPIOS DE LA ESTIMACION ESTADISTICA Y LAS DISTRIBUCIONES 
+DE MUESTREO EN OBSERVACION DE FENOMENOS QUE IMPLICAN UNA COLECCIÓN GRANDE DE DATOS.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Aplica los procedimientos para los cálculos de estimadores puntuales.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de estimadores puntuales y distribuciones de muestreo.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de obtención de estadísticos y estimadores puntuales.
+30 mayo de 2022,Probabilidad y Estadística,VII ESTIMACION ESTADISTICA Y DISTRIBUCIONES DE MUESTREO,"ELABORA UNA LISTA DE LAS PROPIEDADES DE LOS ESTIMADORES PUNTUALES, SIN OMITIR NINGUNA.",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de distribución de muestreo?
+¿Cómo se obtienen las distribuciones de muestreo?
+¿Existen reglas empíricas aplicables a las distribuciones de muestreo?","APLICA EN LA SOLUCION DE PROBLEMAS LOS PRINCIPIOS DE LA ESTIMACION ESTADISTICA Y LAS DISTRIBUCIONES 
+DE MUESTREO EN OBSERVACION DE FENOMENOS QUE IMPLICAN UNA COLECCIÓN GRANDE DE DATOS.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Aplica los procedimientos de distribuciones de muestreo.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de estimadores puntuales y distribuciones de muestreo.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de obtención de estimadores puntuales y distribuciones de muestreo.
+1 junio de 2022,Probabilidad y Estadística,VIII INFERENCIAS EN UNA POBLACION,ANOTA EN SU LIBRETA DE NOTAS EL PROCEDIMIENTO PARA REALIZAR LAS PRUEBAS DE HIPOTESIS PARA ACEPTAR O RECHAZAR ESTADISTICAMENTE LAS SUPOSICIONES ESTABLECIDAS EN UN EJERCICIO DE INGENIERIA PROPORCIONADO EN CLASE.,Ing. Lamberto Maza Casas,"¿Cuales son los conceptos de intervalo de confianza y de prueba de hipótesis?
+¿Cómo se calculan los intervalos de confianza y cómo se hace una prueba de hipótesis?
+¿Considera usted que los conceptos previos son aplicables en su carrera profesional?",APLICA EN LA SOLUCION DE PROBLEMAS LA CONSTRUCCION DE INTERVALOS DE CONFIANZA EN LA INTERPRETACION DE LOS PARAMETROS POBLACIONALES.,"Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Aplica los procedimientos para la construcción de intervalos de confianza en la solución de problemas a través de la realización de pruebas de hipótesis.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la obtención de intervalos de confianza a través de la realización de pruebas de hipótesis.    
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Ilustración de la realización de pruebas de hipótesis para la construcción de intervalos de confianza.
+6 junio de 2022,Probabilidad y Estadística,IX INFERENCIAS DE DOS POBLACIONES,"EXPLICA VERBALMENTE, SIN ERROR DE CONCEPTO, LAS SITUACIONES EN DONDE SE REALIZAN COMPARACIONES ENTRE LOS PARAMETROS (MEDIAS Y VARIANZAS) DE DOS POBLACIONES. ",Ing. Lamberto Maza Casas,"¿Cuál es el concepto de comparación de dos poblaciones?
+¿Cómo se obtienen muestras independientes de dos o más poblaciones?
+¿Puede usted proporcionar ejemplos para justificar sus respuestas?","IDENTIFICA MEDIANTE LA SOLUCION DE PROBLEMAS LA VALIDEZ DE LAS SUPOSICIONES SOBRE LOS PARAMETROS 
+DE DOS POBLACIONES.","Método Expositivo.  
+
+Técnica de Explicación Oral.","• Se menciona el propósito del tema.
+• Se realizan las preguntas del Conflicto Cognitivo.
+• Se dan las instrucciones pertinentes sobre las estrategias de trabajo.
+• Se da realimentación sobre el trabajo realizado, al personal discente.",Aplica los procedimientos de análisis de muestras independientes de dos o más poblaciones.,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .","• 120 minutos en total.     
+• 20 minutos de receso intercalados     
+• 5 minutos de encuadre.     
+• 5 minutos para explicar el desarrollo de la dinámica de trabajo.     
+• 15 minutos para dar retroalimentación sobre las tareas y evidencias desarrolladas por los discentes en las clases anteriores.     
+• 60 minutos para la aplicación de procedimientos de análisis de muestras independientes de dos o más poblaciones.     
+• 15 minutos para el cierre y las conclusiones.","• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",lustración de la aplicación de procedimientos de análisis de muestras independientes de dos o más poblaciones.
+8 junio de 2022,Probabilidad y Estadística,TERCER EXAMEN PARCIAL,"DEMUESTRA LOS CONOCIMIENTOS ADQUIRIDOS EN SESIÓN Y EN EL LIBRO DE TEXTO SOBRE LAS APLICACIONES DE LA ESTADÍSTICA DESCRIPTIVA, LA ESTIMACIÓN ESTADÍSTICA Y DISTRIBUCIONES DE MUESTREO, INFERENCIAS EN UNA POBLACIÓN E INFERENCIAS DE DOS POBLACIONES, EN UN EXAMEN ESCRITO, EVIDENCIANDO EL VALOR DE HONRADEZ.",Ing. Lamberto Maza Casas,"¿Los discentes pueden demostrar que han aprendido los conceptos contemplados en el examen?
+¿Los discentes han aprendido los procedimientos contemplados en el examen?
+¿Cuáles son las actitudes de los discentes ante los conceptos y procedimientos contemplados en el examen?","DEMUESTRA CONOCIMIENTOS ADQUIRIDOS EN SESIÖN Y EN EL LIBRO DE TEXTO SOBRE LAS APLICACIONES DE LA 
+ESTADISTICA DESCRIPTIVA, LA ESTIMACION ESTADISTICA, DISTRIBUCIONES DE MUESTREO, INFERENCIAS EN UNA 
+POBLACION, E INFERENCIAS EN DOS POBLACIONES, EN UN  EXAMEN ESCRITO, EVIDENCIANDO EL VALOR DE LA 
+HONRADEZ.",,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,"El personal discente demuestra los conocimientos adquiridos sobre aplicaciones de estadística descriptiva, estimación estadística, 
+Distribuciones de muestreo, inferencias en una población e inferencias de dos poblaciones.",Libros de la bibliografía.,120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",Examen cumplimentado.
+13 junio de 2022,Probabilidad y Estadística,REVISION DEL EXAMEN (3/ER PARCIAL),EL PERSONAL DOCENTE REALIZA LA REVISIÓN DE LOS RESULTADOS OBTENIDOS EN LA TERCERA EVALUACIÓN PARCIAL.,Ing. Lamberto Maza Casas,,,,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .",120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",
+15 junio de 2022,Probabilidad y Estadística,REPASO PREVIO A EVALUACION FINAL,REVISA LOS ELEMENTOS DE COMPETENCIA DE LAS UNIDADES DEL PROGRAMA DETALLADO DE LA UNIDAD DE APRENDIZAJE.,Ing. Lamberto Maza Casas,,,"Método Expositivo.  
+
+Técnica de Explicación Oral.",Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .",120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",
+20 junio de 2022,Probabilidad y Estadística,EXAMEN FINAL,"DEMUESTRA LOS CONOCIMIENTOS ADQUIRIDOS DURANTE EL CURSO MEDIANTE UN EXAMEN ESCRITO, EVIDENCIANDO EL VALOR DE HONRADEZ.",Ing. Lamberto Maza Casas,,,,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,El personal discente demuestra los conocimientos adquiridos sobre probabilidad y estadística descriptiva.,Libros de la bibliografía.,120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",
+22 junio de 2022,Probabilidad y Estadística,REVISION DEL EXAMEN FINAL,EL PERSONAL DOCENTE REALIZA LA REVISIÓN DE LOS RESULTADOS OBTENIDOS EN LA EVALUACIÓN FINAL.,Ing. Lamberto Maza Casas,,,,Se dan las instrucciones pertinentes sobre las estrategias de trabajo.,,"• Pintarrón     
+• Marcadores para pintarrón     
+• Videoproyector     
+• Internet .",120 minutos,"• Capacidad de abstracción.     
+• Capacidad de análisis.     
+• Creatividad.    
+ • Trabajo colaborativo.     
+• Capacidad de toma de decisiones.","¿Qué tan preciso le pareció a usted el aprendizaje adquirido? 
+¿Qué tan claro fue para usted el aprendizaje adquirido? 
+¿Cómo aplicará el aprendizaje adquirido en su práctica laboral?","Sistematizar e interpretar la información vertida por el personal discente, para dar la realimentación requerida","• Lista de cotejo o verificación.     
+• Preguntas metacognitivas.",
