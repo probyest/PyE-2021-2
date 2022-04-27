@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="ValorEsperadoYVarianza">
+		<Project filename="../../../../../../../mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ValorEsperado/ValorEsperado.cbp">
+			<Depends filename="../../../../../../../mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ValorEsperadoYVarianza/ValorEsperadoYVarianza.cbp" />
+		</Project>
+		<Project filename="../../../../../../../mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/Varianza/Varianza.cbp">
+			<Depends filename="../../../../../../../mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ValorEsperadoYVarianza/ValorEsperadoYVarianza.cbp" />
+		</Project>
+		<Project filename="../../../../../../../mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ValorEsperadoYVarianza/ValorEsperadoYVarianza.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

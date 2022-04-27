@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650593311 source:/mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ValorEsperado/Test_ValorEsperado.c
+	<stdio.h>
+	<stdlib.h>
+	"../ArchivosComunes/ValorEsperadoYVarianza.h"
+	"../ArchivosComunes/datos.c"
+
+1650459013 /mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ArchivosComunes/ValorEsperadoYVarianza.h
+
+1650593066 source:/mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ArchivosComunes/datos.c
+
+1650593066 /mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/ArchivosComunes/datos.c
+
