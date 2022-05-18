@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651668431 source:/mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/TablaParaActaParcial/TestTPAP.c
+	<stdio.h>
+	<stdlib.h>
+
+1651669577 source:/mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/TablaParaActaParcial/ArraysWD.c
+	<stdio.h>
+
+1651691352 source:/mnt/sda3/Users/LMC/00_EMI/2021_2/REPO/org_probyest/PyE-2021-2/UNIDAD02_VARIABLES_ALEATORIAS/Workspace_ValorEsperado_y_Varianza/TablaParaActaParcial/Discentes.c
+
